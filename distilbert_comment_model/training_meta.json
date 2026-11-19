@@ -1,0 +1,14 @@
+{
+  "target_cols": [
+    "real_query",
+    "appreciation",
+    "bad_experience",
+    "noise"
+  ],
+  "max_length": 192,
+  "best_val_loss": 0.23866149573995357,
+  "val_mae": 0.12503673136234283,
+  "sources": [
+    "youtube_silver_labels.jsonl"
+  ]
+}
